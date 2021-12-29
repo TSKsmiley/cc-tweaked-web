@@ -20,4 +20,4 @@ app.post('/', function(request, response){
    response.send('ok'); 
 });
 
-app.listen(80);
+app.listen(process.env.PORT);
