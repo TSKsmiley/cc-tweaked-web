@@ -1,0 +1,406 @@
+[
+    {
+      "tags": [
+        "forge:gems/arcane_crystal",
+        "forge:gems"
+      ],
+      "name": "forbidden_arcanus:arcane_crystal",
+      "count": 64,
+      "amount": 64,
+      "fingerprint": "b8da72e3cc2aec95617ef20060976672",
+      "isCraftable": false,
+      "nbt": [],
+      "displayName": "   [Arcane Crystal]"
+    },
+    {
+      "tags": [
+        "minecraft:lectern_books",
+        "forge:books"
+      ],
+      "name": "patchouli:guide_book",
+      "count": 1,
+      "amount": 1,
+      "fingerprint": "75e53adee998d7f898072a03ab3bf0c8",
+      "isCraftable": false,
+      "nbt": {
+        "akashictome:displayName": {
+          "text": "Pedestals"
+        },
+        "patchouli:book": "pedestals:manual",
+        "display": {
+          "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Pedestals\"}]}"
+        },
+        "akashictome:data": {
+          "silentgear": {
+            "id": "silentgear:guide_book",
+            "Count": 1,
+            "tag": {
+              "akashictome:displayName": {
+                "text": "SilentGearGuide"
+              }
+            }
+          },
+          "allthemodium": {
+            "id": "patchouli:guide_book",
+            "Count": 1,
+            "tag": {
+              "display": {
+                "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Allthemodium\"}]}"
+              },
+              "akashictome:displayName": {
+                "text": "Allthemodium"
+              },
+              "akashictome:is_morphing": 1,
+              "patchouli:book": "allthemodium:allthemodium"
+            }
+          },
+          "ftbquests": {
+            "id": "ftbquests:book",
+            "Count": 1,
+            "tag": {
+              "akashictome:displayName": {
+                "text": "QuestBook"
+              }
+            }
+          },
+          "cyclic": {
+            "id": "patchouli:guide_book",
+            "Count": 1,
+            "tag": {
+              "display": {
+                "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"CyclicGuidebook\"}]}"
+              },
+              "akashictome:displayName": {
+                "text": "CyclicGuidebook"
+              },
+              "akashictome:is_morphing": 1,
+              "patchouli:book": "cyclic:cyclic_guide_book"
+            }
+          },
+          "mysticalagriculture": {
+            "id": "patchouli:guide_book",
+            "Count": 1,
+            "tag": {
+              "display": {
+                "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"MysticalAgriculture\"}]}"
+              },
+              "akashictome:displayName": {
+                "text": "MysticalAgriculture"
+              },
+              "akashictome:is_morphing": 1,
+              "patchouli:book": "mysticalagriculture:guide"
+            }
+          },
+          "bloodmagic": {
+            "id": "patchouli:guide_book",
+            "Count": 1,
+            "tag": {
+              "display": {
+                "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"SanguineScientiem\"}]}"
+              },
+              "akashictome:displayName": {
+                "text": "SanguineScientiem"
+              },
+              "akashictome:is_morphing": 1,
+              "patchouli:book": "bloodmagic:guide"
+            }
+          },
+          "botania": {
+            "id": "botania:lexicon",
+            "Count": 1,
+            "tag": {
+              "akashictome:is_morphing": 1,
+              "botania:elven_unlock": 1,
+              "display": {
+                "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"LexicaBotania\"}]}"
+              },
+              "akashictome:displayName": {
+                "text": "LexicaBotania"
+              }
+            }
+          },
+          "ars_nouveau": {
+            "id": "ars_nouveau:worn_notebook",
+            "Count": 1,
+            "tag": {
+              "akashictome:displayName": {
+                "text": "WornNotebook"
+              }
+            }
+          },
+          "modularrouters": {
+            "id": "patchouli:guide_book",
+            "Count": 1,
+            "tag": {
+              "akashictome:displayName": {
+                "text": "ModularRoutersManual"
+              },
+              "patchouli:book": "modularrouters:book"
+            }
+          },
+          "resourcefulbees": {
+            "id": "patchouli:guide_book",
+            "Count": 1,
+            "tag": {
+              "display": {
+                "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"FiftyShadesofBees\"}]}"
+              },
+              "akashictome:displayName": {
+                "text": "FiftyShadesofBees"
+              },
+              "akashictome:is_morphing": 1,
+              "patchouli:book": "resourcefulbees:fifty_shades_of_bees"
+            }
+          },
+          "solcarrot": {
+            "id": "solcarrot:food_book",
+            "Count": 1,
+            "tag": {
+              "akashictome:is_morphing": 1,
+              "display": {
+                "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"FoodBook\"}]}"
+              },
+              "akashictome:displayName": {
+                "text": "FoodBook"
+              }
+            }
+          },
+          "rftoolsbase": {
+            "id": "rftoolsbase:manual",
+            "Count": 1,
+            "tag": {
+              "akashictome:is_morphing": 1,
+              "display": {
+                "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"TechnologyGuide\"}]}"
+              },
+              "akashictome:displayName": {
+                "text": "TechnologyGuide"
+              }
+            }
+          },
+          "powah": {
+            "id": "powah:book",
+            "Count": 1,
+            "tag": {
+              "akashictome:is_morphing": 1,
+              "display": {
+                "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Manual(Powah!)\"}]}"
+              },
+              "akashictome:displayName": {
+                "text": "Manual(Powah!)"
+              }
+            }
+          },
+          "theoneprobe": {
+            "id": "theoneprobe:probenote",
+            "Count": 1,
+            "tag": {
+              "akashictome:displayName": {
+                "text": "ProbeSettings"
+              }
+            }
+          },
+          "mahoutsukai": {
+            "id": "mahoutsukai:guidebook",
+            "Count": 1,
+            "tag": {
+              "akashictome:is_morphing": 1,
+              "display": {
+                "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"MahouTsukaiKnowledgeCompendium\"}]}"
+              },
+              "akashictome:displayName": {
+                "text": "MahouTsukaiKnowledgeCompendium"
+              }
+            }
+          },
+          "integratedtunnels": {
+            "id": "integrateddynamics:on_the_dynamics_of_integration",
+            "Count": 1,
+            "tag": {
+              "akashictome:displayName": {
+                "text": "OnTheDynamicsOfIntegration"
+              }
+            }
+          },
+          "psi": {
+            "id": "patchouli:guide_book",
+            "Count": 1,
+            "tag": {
+              "akashictome:displayName": {
+                "text": "EncylopaediaPsionica"
+              },
+              "patchouli:book": "psi:encyclopaedia_psionica"
+            }
+          },
+          "tconstruct": {
+            "id": "tconstruct:materials_and_you",
+            "Count": 1,
+            "tag": {
+              "akashictome:displayName": {
+                "text": "MaterialsAndYou"
+              }
+            }
+          },
+          "mana-and-artifice": {
+            "id": "mana-and-artifice:guide_book",
+            "Count": 1,
+            "tag": {
+              "akashictome:is_morphing": 1,
+              "display": {
+                "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"CodexArcana\"}]}"
+              },
+              "akashictome:displayName": {
+                "text": "CodexArcana"
+              }
+            }
+          },
+          "naturesaura": {
+            "id": "patchouli:guide_book",
+            "Count": 1,
+            "tag": {
+              "akashictome:displayName": {
+                "text": "BookOfNaturalAura"
+              },
+              "patchouli:book": "naturesaura:book"
+            }
+          },
+          "industrialforegoing": {
+            "id": "patchouli:guide_book",
+            "Count": 1,
+            "tag": {
+              "akashictome:displayName": {
+                "text": "IndustrialForegoing'sManual"
+              },
+              "patchouli:book": "industrialforegoing:industrial_foregoing"
+            }
+          },
+          "woot": {
+            "id": "patchouli:guide_book",
+            "Count": 1,
+            "tag": {
+              "display": {
+                "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"WootGuide\"}]}"
+              },
+              "akashictome:displayName": {
+                "text": "WootGuide"
+              },
+              "akashictome:is_morphing": 1,
+              "patchouli:book": "woot:wootguide"
+            }
+          },
+          "engineersdecor": {
+            "id": "patchouli:guide_book",
+            "Count": 1,
+            "tag": {
+              "akashictome:displayName": {
+                "text": "Engineer'sDecor"
+              },
+              "patchouli:book": "engineersdecor:engineersdecor_manual"
+            }
+          },
+          "eidolon": {
+            "id": "eidolon:codex",
+            "Count": 1,
+            "tag": {
+              "akashictome:is_morphing": 1,
+              "display": {
+                "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"ArsEcclesia\"}]}"
+              },
+              "akashictome:displayName": {
+                "text": "ArsEcclesia"
+              }
+            }
+          },
+          "pneumaticcraft": {
+            "id": "patchouli:guide_book",
+            "Count": 1,
+            "tag": {
+              "akashictome:displayName": {
+                "text": "PNC:RManual"
+              },
+              "patchouli:book": "pneumaticcraft:book"
+            }
+          },
+          "immersiveengineering": {
+            "id": "immersiveengineering:manual",
+            "Count": 1,
+            "tag": {
+              "akashictome:is_morphing": 1,
+              "display": {
+                "Name": "{\"translate\":\"akashictome.sudo_name\",\"with\":[{\"color\":\"green\",\"text\":\"Engineer\\'sManual\"}]}"
+              },
+              "akashictome:displayName": {
+                "text": "Engineer'sManual"
+              }
+            }
+          },
+          "thermal": {
+            "id": "patchouli:guide_book",
+            "Count": 1,
+            "tag": {
+              "akashictome:displayName": {
+                "text": "Thermalpedia"
+              },
+              "patchouli:book": "thermal:guidebook"
+            }
+          },
+          "astralsorcery": {
+            "id": "astralsorcery:tome",
+            "Count": 1,
+            "tag": {
+              "akashictome:displayName": {
+                "text": "AstralTome"
+              }
+            }
+          }
+        },
+        "akashictome:is_morphing": 1
+      },
+      "displayName": "   [Akashic Tome (Pedestals)]"
+    },
+    {
+      "tags": [
+        "forge:gems/cinnabar",
+        "forge:gems"
+      ],
+      "name": "thermal:cinnabar",
+      "count": 184,
+      "amount": 184,
+      "fingerprint": "1d618e5b66169fe2c269bd275d5242f6",
+      "isCraftable": false,
+      "nbt": [],
+      "displayName": "   [Cinnabar]"
+    },
+    {
+      "tags": [
+        "mekanism:alloys",
+        "forge:dusts/redstone",
+        "mana-and-artifice:arcane_furnace_doubling_blacklist",
+        "mekanism:alloys/basic",
+        "forge:dusts"
+      ],
+      "name": "minecraft:redstone",
+      "count": 64,
+      "amount": 64,
+      "fingerprint": "69e6cf1cd5891b82ff94d767ac382b0a",
+      "isCraftable": false,
+      "nbt": [],
+      "displayName": "   [Redstone Dust]"
+    },
+    {
+      "tags": [
+        "create:upright_on_belt",
+        "itemfilters:check_nbt"
+      ],
+      "name": "minecraft:potion",
+      "count": 6,
+      "amount": 6,
+      "fingerprint": "eedfb0e28340d3a57122df55a47134dc",
+      "isCraftable": false,
+      "nbt": {
+        "Potion": "minecraft:slowness"
+      },
+      "displayName": "   [Potion of Slowness]"
+    }
+  ]
+  
