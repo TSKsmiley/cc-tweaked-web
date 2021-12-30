@@ -16,9 +16,9 @@ app.get('/', function(req, res){
     
 
 app.post('/Update', function(request, response){
-  console.log(request.body);
+  console.log(request);
   items = request.body;
-   response.send('ok'); 
+  response.send('ok'); 
 });
 
 console.log("Server is running on port: " + process.env.PORT);
