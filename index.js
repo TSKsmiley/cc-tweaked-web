@@ -1,6 +1,6 @@
 var express = require('express');
 var path = require('path');
-var itemsExample = require('./itemsExample.json');
+var items = require('./itemsExample.json');
 
 var app = express();
 
@@ -11,13 +11,14 @@ app.use(express.json());
 
 
 app.get('/', function(req, res){
-    res.render('Index.pug', {items: itemsExample});
+    res.render('Index.pug', {items: items});
 });
     
 
-app.post('/', function(request, response){
-  console.log(request.body);      // your JSON
+app.post('/Update', function(request, response){
+  items = request.body;
    response.send('ok'); 
 });
 
+debug.log("Server is running on port: " + process.env.PORT);
 app.listen(process.env.PORT);
