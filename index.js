@@ -16,7 +16,7 @@ app.get('/', function(req, res){
     
 
 app.post('/Update', function(request, response){
-  console.log(request);
+  console.log(request.body);
   items = request.body;
   response.send('ok'); 
 });
