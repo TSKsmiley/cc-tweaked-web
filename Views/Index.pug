@@ -1,6 +1,17 @@
+doctype html
 
-<h1> Version 0.1 </h1>
+<h1> Version 0.1.1 </h1>
 
-ul
-  each item in  items
-    li= item.displayName
+
+
+html(lang='en')
+  body
+    table.table.table-striped
+      tr
+        th Item name
+        th Count
+
+      each item in items
+        tr
+          td= item.displayName
+          td= item.count
