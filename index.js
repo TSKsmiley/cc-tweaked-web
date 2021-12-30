@@ -20,5 +20,5 @@ app.post('/Update', function(request, response){
    response.send('ok'); 
 });
 
-debug.log("Server is running on port: " + process.env.PORT);
+console.log("Server is running on port: " + process.env.PORT);
 app.listen(process.env.PORT);
