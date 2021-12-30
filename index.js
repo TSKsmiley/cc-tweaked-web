@@ -11,7 +11,7 @@ app.use(express.json());
 
 
 app.get('/', function(req, res){
-    res.render('index', {items: itemsExample});
+    res.render('index.pug', {items: itemsExample});
 });
     
 
