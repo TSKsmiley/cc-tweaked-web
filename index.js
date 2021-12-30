@@ -5,7 +5,7 @@ var itemsExample = require('./itemsExample.json');
 var app = express();
 
 app.set('view engine', 'pug')
-app.set('views', path.join(__dirname, '/../Views'));
+app.set('views', path.join(__dirname, 'Views'));
 
 app.use(express.json());
 
